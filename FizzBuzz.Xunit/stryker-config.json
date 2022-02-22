@@ -1,0 +1,7 @@
+{
+    "stryker-config":
+    {
+        "solution": "/Users/davidnicolette/Documents/Projects/DotnetSandbox/FizzBuzz/FizzBuzz.sln",
+        "project": "FB_11_TDD.csproj"
+    }
+}
